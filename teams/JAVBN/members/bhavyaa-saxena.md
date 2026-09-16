@@ -2,18 +2,18 @@
 
 ## My Name
 
-Bill McCann
+Bhavyaa Saxena
 
 ## Favorite Technology
 
-VS Code
+JetBrains Intelij
 
 ## Non-technical Hobby
 
-- Skiing
-- Running, Swimming, Biking
-- Gaming
+- Singing
+- Swimming
+- Rock Climbing
 
 ## Favorite Cartoon
 
-Spongebob Squarepants
+Oggy & the Cockroaches
