@@ -2,7 +2,7 @@
 
 ## My Name
 
-Bill McCann
+Varsha Narayanan
 
 ## Favorite Technology
 
@@ -10,10 +10,10 @@ VS Code
 
 ## Non-technical Hobby
 
-- Skiing
-- Running, Swimming, Biking
-- Gaming
+- Drumming 
+- Electric Guitar
+- Soccer
 
 ## Favorite Cartoon
 
-Spongebob Squarepants
+Avatar the Last Airbender
