@@ -2,7 +2,7 @@
 
 ## My Name
 
-Bill McCann
+Amreen Kaur Bhatia
 
 ## Favorite Technology
 
@@ -10,10 +10,9 @@ VS Code
 
 ## Non-technical Hobby
 
-- Skiing
-- Running, Swimming, Biking
-- Gaming
+- Dancing
+- Reading
 
 ## Favorite Cartoon
 
-Spongebob Squarepants
+Oggy & the Cockroaches
