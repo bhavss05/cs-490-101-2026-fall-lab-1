@@ -11,7 +11,7 @@ Bhavyaa Saxena
 
 ## Team Members
 
-- Jane Doe
+- Jasmine Geo
 - John Smith
 - Alice Johnson
 - Bob Williams
