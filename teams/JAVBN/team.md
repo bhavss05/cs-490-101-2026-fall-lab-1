@@ -12,6 +12,6 @@ Bhavyaa Saxena
 ## Team Members
 
 - Jasmine Geo
-- John Smith
-- Alice Johnson
-- Bob Williams
+- Varsha Narayanan
+- Amreen Kaur Bhatia
+- Bhavyaa Saxena
